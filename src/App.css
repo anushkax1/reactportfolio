@@ -37,9 +37,3 @@ p {
 .name {
   color: #e729e7; /* Neon pink color for the .name class */
 }
-
-.output .current-operand {
-  color: white;
-  font-size: 2.5rem;
-  background-color:rgb(18, 18, 88) ;
-}
